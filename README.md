@@ -1,0 +1,2 @@
+# CryptoBot
+Slack Crypto Bot
